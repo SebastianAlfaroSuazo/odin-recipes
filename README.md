@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first try at making a website form scratch. The website is about cooking recipes. The aim of the project is to apply all that i've learned about designing, creating and formatting an HTML website.
